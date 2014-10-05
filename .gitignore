@@ -1,3 +1,6 @@
-auto-save-list
+auto-save-list/
 history
+
+# For package.el
+elpa/
 
